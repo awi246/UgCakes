@@ -12,9 +12,7 @@ This is a basic e-commerce website built using React 18, Bootstrap, React Router
 
 1. Clone or Download the repository
 
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-website.git
-   cd ecommerce-website
+   git clone [https://github.com/yourusername/ecommerce-website.git](https://github.com/awi246/UgCakes)
 
    
 2. Backend Setup
