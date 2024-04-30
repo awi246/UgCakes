@@ -8,15 +8,20 @@ const BagSummary = () => {
     return itemIndex >= 0;
   });
 
-  const CONVENIENCE_FEES = 99;
+  const CONVENIENCE_FEES = 150;
   let totalItem = bagItemIds.length;
   let totalMRP = 0;
+  let finalPayment
 
   finalItems.forEach((bagItem) => {
     totalMRP += bagItem.price;
   });
-
-  let finalPayment = totalMRP + CONVENIENCE_FEES;
+if(totalMRP!=0){
+   finalPayment = totalMRP + CONVENIENCE_FEES;
+}else{
+  finalPayment=0;
+}
+  
 
   return (
  
@@ -26,16 +31,16 @@ const BagSummary = () => {
     <div className="price-header"> PRICE DETAILS ({totalItem} Items) </div>
     <div className="price-item">
       <span className="price-item-tag">Total MRP</span>
-      <span className="price-item-value">₹{totalMRP}</span>
+      <span className="price-item-value">रु{totalMRP}</span>
     </div>
     <div className="price-item">
       <span className="price-item-tag">Convenience Fee</span>
-      <span className="price-item-value">₹150</span>
+      <span className="price-item-value">{totalMRP!=0? `रु150`: `रु0`}</span>
     </div>
     <hr/>
     <div className="price-footer">
       <span className="price-item-tag">Total Amount</span>
-      <span className="price-item-value">₹{finalPayment}</span>
+      <span className="price-item-value">रु{finalPayment}</span>
     </div>
   </div>
   <button className="btn-place-order">
