@@ -7,23 +7,23 @@
         "category": "Electronics",
         "description": "High-quality wireless headphones with noise cancellation and 12-hour battery life.",
         "price": 99.99,
-        "image": "https://example.com/images/product1.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "2",
         "name": "Organic Green Tea",
         "category": "Groceries",
         "description": "A soothing blend of organic green tea leaves from the mountains of Himachal.",
-        "price": 15.50,
-        "image": "https://example.com/images/product2.jpg"
+        "price": 15.5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "3",
         "name": "Ergonomic Office Chair",
         "category": "Furniture",
         "description": "Comfortable ergonomic office chair with lumbar support and breathable mesh back.",
-        "price": 250.00,
-        "image": "https://example.com/images/product3.jpg"
+        "price": 250,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "4",
@@ -31,7 +31,7 @@
         "category": "Kitchenware",
         "description": "Traditional wooden rolling pin ideal for baking and pasta making.",
         "price": 20.75,
-        "image": "https://example.com/images/product4.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "5",
@@ -39,31 +39,31 @@
         "category": "Electronics",
         "description": "High precision gaming mouse with customizable RGB lighting and 16000 DPI sensor.",
         "price": 59.99,
-        "image": "https://example.com/images/product5.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "6",
         "name": "Yoga Mat",
         "category": "Fitness",
         "description": "Eco-friendly, non-slip yoga mat perfect for all types of yoga and pilates.",
-        "price": 35.00,
-        "image": "https://example.com/images/product6.jpg"
+        "price": 35,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "7",
         "name": "Stainless Steel Water Bottle",
         "category": "Fitness",
         "description": "Durable stainless steel water bottle, keeps liquids cold or hot for up to 12 hours.",
-        "price": 25.00,
-        "image": "https://example.com/images/product7.jpg"
+        "price": 25,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "8",
         "name": "Smart TV 4K",
         "category": "Electronics",
         "description": "Ultra HD Smart TV with high dynamic range and smart home compatibility.",
-        "price": 1200.00,
-        "image": "https://example.com/images/product8.jpg"
+        "price": 1200,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "9",
@@ -71,7 +71,7 @@
         "category": "Electronics",
         "description": "Portable Bluetooth speaker with excellent sound quality and long battery life.",
         "price": 45.99,
-        "image": "https://example.com/images/product9.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "10",
@@ -79,7 +79,7 @@
         "category": "Kitchenware",
         "description": "Fast boiling electric kettle with auto shut-off and boil dry protection.",
         "price": 29.99,
-        "image": "https://example.com/images/product10.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "11",
@@ -87,7 +87,7 @@
         "category": "Electronics",
         "description": "Wireless mouse with 2.4 GHz connection and ergonomic design.",
         "price": 14.99,
-        "image": "https://example.com/images/product11.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "12",
@@ -95,7 +95,7 @@
         "category": "Groceries",
         "description": "Pure almond butter made from organic almonds.",
         "price": 10.99,
-        "image": "https://example.com/images/product12.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "13",
@@ -103,7 +103,7 @@
         "category": "Furniture",
         "description": "Easily convert your regular desk into a standing desk with this converter.",
         "price": 149.99,
-        "image": "https://example.com/images/product13.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "14",
@@ -111,7 +111,7 @@
         "category": "Kitchenware",
         "description": "Set of 3 stainless steel mixing bowls with non-slip silicone base.",
         "price": 29.95,
-        "image": "https://example.com/images/product14.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "15",
@@ -119,15 +119,15 @@
         "category": "Electronics",
         "description": "Wireless gaming controller compatible with PC and gaming consoles.",
         "price": 49.99,
-        "image": "https://example.com/images/product15.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "16",
         "name": "Fitness Tracker Watch",
         "category": "Fitness",
         "description": "Waterproof fitness tracker with heart rate monitor and sleep tracking.",
-        "price": 79.00,
-        "image": "https://example.com/images/product16.jpg"
+        "price": 79,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "17",
@@ -135,7 +135,7 @@
         "category": "Kitchenware",
         "description": "Set of 6 reusable food storage bags made from food-grade silicone.",
         "price": 19.99,
-        "image": "https://example.com/images/product17.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "18",
@@ -143,7 +143,7 @@
         "category": "Electronics",
         "description": "1TB portable external hard drive for storing and backing up data.",
         "price": 59.99,
-        "image": "https://example.com/images/product18.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "19",
@@ -151,15 +151,15 @@
         "category": "Fitness",
         "description": "Whey protein powder for muscle recovery and growth.",
         "price": 24.99,
-        "image": "https://example.com/images/product19.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "20",
         "name": "Reusable Coffee Cup",
         "category": "Kitchenware",
         "description": "Eco-friendly reusable coffee cup made from bamboo fiber.",
-        "price": 12.50,
-        "image": "https://example.com/images/product20.jpg"
+        "price": 12.5,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "21",
@@ -167,7 +167,7 @@
         "category": "Electronics",
         "description": "Wireless keyboard with quiet keys and long battery life.",
         "price": 29.99,
-        "image": "https://example.com/images/product21.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "22",
@@ -175,7 +175,7 @@
         "category": "Fitness",
         "description": "Plant-based vegan protein bars with delicious flavors.",
         "price": 21.99,
-        "image": "https://example.com/images/product22.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "23",
@@ -183,7 +183,7 @@
         "category": "Kitchenware",
         "description": "Set of ceramic non-stick pots and pans for healthy cooking.",
         "price": 129.99,
-        "image": "https://example.com/images/product23.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "24",
@@ -191,7 +191,7 @@
         "category": "Electronics",
         "description": "True wireless earbuds with Bluetooth 5.0 and noise cancellation.",
         "price": 79.99,
-        "image": "https://example.com/images/product24.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "25",
@@ -199,7 +199,7 @@
         "category": "Fitness",
         "description": "Natural protein powder with no artificial flavors or sweeteners.",
         "price": 29.99,
-        "image": "https://example.com/images/product25.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "26",
@@ -207,7 +207,7 @@
         "category": "Kitchenware",
         "description": "Set of 5 glass meal prep containers with locking lids.",
         "price": 29.99,
-        "image": "https://example.com/images/product26.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "27",
@@ -215,7 +215,7 @@
         "category": "Electronics",
         "description": "Adjustable portable laptop stand for better ergonomics.",
         "price": 19.99,
-        "image": "https://example.com/images/product27.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "28",
@@ -223,7 +223,7 @@
         "category": "Fitness",
         "description": "Plant-based protein powder made from peas, rice, and quinoa.",
         "price": 34.99,
-        "image": "https://example.com/images/product28.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "29",
@@ -231,7 +231,7 @@
         "category": "Kitchenware",
         "description": "Eco-friendly alternative to plastic wrap made from beeswax.",
         "price": 14.99,
-        "image": "https://example.com/images/product29.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "30",
@@ -239,7 +239,7 @@
         "category": "Electronics",
         "description": "500GB external SSD drive for fast data transfer.",
         "price": 99.99,
-        "image": "https://example.com/images/product30.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "31",
@@ -247,7 +247,7 @@
         "category": "Fitness",
         "description": "Organic protein bars with simple, wholesome ingredients.",
         "price": 18.99,
-        "image": "https://example.com/images/product31.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "32",
@@ -255,7 +255,7 @@
         "category": "Kitchenware",
         "description": "Set of 20 stainless steel cutlery pieces with a sleek design.",
         "price": 49.99,
-        "image": "https://example.com/images/product32.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "33",
@@ -263,7 +263,7 @@
         "category": "Electronics",
         "description": "Fast wireless charging pad compatible with Qi-enabled devices.",
         "price": 19.99,
-        "image": "https://example.com/images/product33.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "34",
@@ -271,7 +271,7 @@
         "category": "Fitness",
         "description": "Plant-based protein powder made from pea protein.",
         "price": 27.99,
-        "image": "https://example.com/images/product34.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "35",
@@ -279,7 +279,7 @@
         "category": "Kitchenware",
         "description": "Set of 2 reusable silicone baking mats for non-stick baking.",
         "price": 12.99,
-        "image": "https://example.com/images/product35.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "36",
@@ -287,7 +287,7 @@
         "category": "Electronics",
         "description": "Wireless charging stand with adjustable viewing angle.",
         "price": 24.99,
-        "image": "https://example.com/images/product36.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "37",
@@ -295,7 +295,7 @@
         "category": "Fitness",
         "description": "Organic protein powder with no added sugars or artificial flavors.",
         "price": 29.99,
-        "image": "https://example.com/images/product37.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "38",
@@ -303,7 +303,7 @@
         "category": "Kitchenware",
         "description": "Stainless steel water pitcher with ice guard and ergonomic handle.",
         "price": 29.99,
-        "image": "https://example.com/images/product38.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "39",
@@ -311,7 +311,7 @@
         "category": "Electronics",
         "description": "Lightweight and portable Bluetooth headset with noise cancellation.",
         "price": 39.99,
-        "image": "https://example.com/images/product39.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "40",
@@ -319,90 +319,88 @@
         "category": "Groceries",
         "description": "Organic granola made with whole grain oats, nuts, and dried fruits.",
         "price": 8.99,
-        "image": "https://example.com/images/product40.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "41",
         "name": "Stainless Steel Insulated Tumbler",
         "category": "Kitchenware",
-        "description": "Stainless steel insulated tumbler with a splash-proof lid.",
+        "description": "Stainless steel insulated tumbler with a spill-proof lid.",
         "price": 19.99,
-        "image": "https://example.com/images/product41.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "42",
-        "name": "Wireless Noise-Canceling Earbuds",
-        "category": "Electronics",
-        "description": "Wireless noise-canceling earbuds with 20-hour battery life.",
-        "price": 99.99,
-        "image": "https://example.com/images/product42.jpg"
+        "name": "Adjustable Dumbbell Set",
+        "category": "Fitness",
+        "description": "Set of adjustable dumbbells with weight plates for versatile workouts.",
+        "price": 149.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "43",
-        "name": "Organic Chia Seeds",
-        "category": "Groceries",
-        "description": "Organic chia seeds packed with omega-3 fatty acids and fiber.",
-        "price": 7.99,
-        "image": "https://example.com/images/product43.jpg"
+        "name": "Reusable Glass Straws",
+        "category": "Kitchenware",
+        "description": "Set of 6 reusable glass straws with a cleaning brush.",
+        "price": 12.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "44",
-        "name": "Stainless Steel Cocktail Shaker Set",
-        "category": "Kitchenware",
-        "description": "Stainless steel cocktail shaker set with accessories and recipes.",
-        "price": 24.99,
-        "image": "https://example.com/images/product44.jpg"
+        "name": "Wireless Earbuds",
+        "category": "Electronics",
+        "description": "True wireless earbuds with Bluetooth 5.0 and IPX7 waterproof rating.",
+        "price": 59.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "45",
-        "name": "Portable Power Bank",
-        "category": "Electronics",
-        "description": "10000mAh portable power bank with fast charging technology.",
-        "price": 29.99,
-        "image": "https://example.com/images/product45.jpg"
+        "name": "Yoga Block",
+        "category": "Fitness",
+        "description": "High-density EVA foam yoga block for better support and alignment.",
+        "price": 9.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "46",
-        "name": "Organic Quinoa",
-        "category": "Groceries",
-        "description": "Organic quinoa packed with protein, fiber, and essential nutrients.",
-        "price": 6.99,
-        "image": "https://example.com/images/product46.jpg"
+        "name": "Portable Blender",
+        "category": "Kitchenware",
+        "description": "Compact and portable blender for smoothies and shakes on the go.",
+        "price": 34.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "47",
-        "name": "Stainless Steel Food Storage Containers",
-        "category": "Kitchenware",
-        "description": "Set of 4 stainless steel food storage containers with lids.",
-        "price": 29.99,
-        "image": "https://example.com/images/product47.jpg"
+        "name": "Smart Digital Scale",
+        "category": "Fitness",
+        "description": "Bluetooth-enabled smart digital scale with smartphone app integration.",
+        "price": 39.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "48",
-        "name": "Portable Mini Projector",
-        "category": "Electronics",
-        "description": "Portable mini projector with 1080p HD resolution and built-in speaker.",
-        "price": 129.99,
-        "image": "https://example.com/images/product48.jpg"
+        "name": "Reusable Produce Bags",
+        "category": "Kitchenware",
+        "description": "Set of 9 reusable produce bags in various sizes.",
+        "price": 15.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "49",
-        "name": "Organic Coconut Oil",
-        "category": "Groceries",
-        "description": "Organic coconut oil for cooking, baking, and skincare.",
-        "price": 9.99,
-        "image": "https://example.com/images/product49.jpg"
+        "name": "Wireless Charging Power Bank",
+        "category": "Electronics",
+        "description": "Wireless charging power bank with built-in cables for charging on the go.",
+        "price": 39.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       },
       {
         "id": "50",
-        "name": "Stainless Steel Kitchen Utensil Set",
-        "category": "Kitchenware",
-        "description": "Set of 10 stainless steel kitchen utensils with ergonomic handles.",
-        "price": 39.99,
-        "image": "https://example.com/images/product50.jpg"
+        "name": "Portable Power Generator",
+        "category": "Electronics",
+        "description": "Portable power generator with USB and AC outlets for outdoor use.",
+        "price": 199.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdeLQv5HIWcBWBuN2qqkZqp-gqMWUgg6BOjOmeFWF9BA&s"
       }
-  
-  
     ]
   ]
 }
