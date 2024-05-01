@@ -1,4 +1,7 @@
 
+[Note:- To run on the hosted link "https://ug-cakes.vercel.app/" 1st you need to download this repo and run backend at your local machine using npm start only then the hosted link will work ]
+
+
 # E-Commerce Website
 
 This is a basic e-commerce website built using React 18, Bootstrap, React Router, and React Hook Form. It includes features such as product listings, categorization, product search, and a guest checkout flow.
