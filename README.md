@@ -22,11 +22,15 @@ This is a basic e-commerce website built using React 18, Bootstrap, React Router
 2. Backend Setup
 
   cd e-com-backend
+  
   npm install
+  
   npm start
 
 3. Frontend Setup
 
   cd e-com-frontend
+  
   npm install
+  
   npm run dev
